@@ -1,0 +1,19 @@
+body {
+  background-color: dimgrey;
+  color: aquamarine;
+}
+.block {
+  margin: 5px 10px;
+  border: greenyellow dashed 3px;
+  padding: 10px;
+  border-radius:10px;
+}
+.row_block {
+  display: inline-block;
+  vertical-align:top;
+ }
+img {
+  width: 300px;
+  border: navajowhite 2px dashed;
+  border-radius: 50%;
+}
